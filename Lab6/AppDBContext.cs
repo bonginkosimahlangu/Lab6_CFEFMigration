@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Lab6.Model;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
 

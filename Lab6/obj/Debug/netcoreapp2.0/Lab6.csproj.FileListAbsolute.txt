@@ -9,3 +9,14 @@ c:\users\bmahlangu\Source\Repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyI
 c:\users\bmahlangu\Source\Repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfo.cs
 c:\users\bmahlangu\Source\Repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.dll
 c:\users\bmahlangu\Source\Repos\Lab6\Lab6\obj\Debug\netcoreapp2.0\Lab6.pdb
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\bin\Debug\netcoreapp2.0\Lab6.deps.json
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.json
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.dev.json
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\bin\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\bin\Debug\netcoreapp2.0\Lab6.pdb
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.csprojAssemblyReference.cache
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfo.cs
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\BMahlangu\Source\Repos\Lab6\Lab6_CFEFMigration\Lab6\obj\Debug\netcoreapp2.0\Lab6.pdb
